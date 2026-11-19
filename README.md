@@ -125,5 +125,5 @@ The API key is read from Colab Secrets and is never stored in the notebook, so t
 
 ## Author
 
-**Your Name**
-[LinkedIn](https://www.linkedin.com/in/YOUR_PROFILE) · [GitHub](https://github.com/YOUR_USERNAME)
+**Abdullah Hasan Shah**
+[LinkedIn](https://www.linkedin.com/in/abdullah-hasan-shah-b306b6370/)
