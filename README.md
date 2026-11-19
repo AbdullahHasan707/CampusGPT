@@ -9,7 +9,7 @@ CampusGPT is a Retrieval-Augmented Generation (RAG) chatbot that answers student
 
 ## Demo
 
-![CampusGPT chat interface](assets/demo.jpg)
+![CampusGPT chat interface](demo.jpg)
 
 *The Gradio chat interface. Each answer lists the documents it was drawn from.*
 
