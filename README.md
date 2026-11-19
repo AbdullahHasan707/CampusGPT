@@ -2,7 +2,6 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/CampusGPT.ipynb)
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
-![Status](https://img.shields.io/badge/status-prototype-orange)
 
 CampusGPT is a Retrieval-Augmented Generation (RAG) chatbot that answers student questions about the University of Engineering & Technology (UET) Mardan, including fees, hostels, admissions, examination rules, scholarships, and official contacts. Instead of relying on the language model's memory, it retrieves passages from official university documents and answers from that material, citing the source files.
 
